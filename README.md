@@ -6,7 +6,7 @@ A simple full-stack intern dashboard built using **React + Tailwind CSS** for fr
 
 ## 🔗 Live Demo
 
-🌐 [Click here to view](https://intern-portal.vercel.app)
+🌐 [Click here to view](https://intern-portal-assignment-yuoq.vercel.app)
 
 ---
 
